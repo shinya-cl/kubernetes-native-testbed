@@ -1,0 +1,2 @@
+export TB_GITHUB_TOKEN=82e5c04e029c9bf259ba804895b2379897e7a6c6
+export TB_GITHUB_USER=shinya-cl
